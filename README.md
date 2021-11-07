@@ -1,2 +1,0 @@
-# webpagestest
-My first hosting
